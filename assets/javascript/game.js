@@ -64,13 +64,6 @@ $("#crystal_4").on("click", function() {
     winOrLose();
   });
 
-  console.log (crystalNum1 )
-  console.log (crystalNum2 )
-  console.log (crystalNum3)
-  console.log (crystalNum4)
-  console.log (crystalSum )
-  console.log (randomNumber)
-
 function winOrLose(){
 
 // The player wins if their total score matches the random number from the beginning of the game.
